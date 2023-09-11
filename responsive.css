@@ -1,0 +1,175 @@
+@media screen and (min-width: 1400px) {
+    .servc6{
+        margin-top: -230px !important;
+    }
+    .servc3{
+        margin-top: -50px !important;
+    }
+    .cc1{
+        width: 32%;
+    }
+    .rula{
+        width: 95%;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1399px){
+    .he1{
+        width: 31% !important;
+    }
+    .st1{
+        width: 30% !important;
+    }
+    .gurg{
+        font-size: 45px !important;
+    }
+    .gurgp{
+        font-size: 16px !important;
+    }
+    .bgimg{
+        width: 100%;
+        height: 440px;
+    }
+    .saq{
+        font-size: 23px !important;
+    }
+    .rate{
+        font-size: 15px !important;
+    }
+    .smk{
+        font-size: 18px !important;
+    }
+    .st2{
+        font-size: 14px !important;
+    }
+    .ssp{
+        font-size: 14px !important;
+    }
+    .s1h{
+        font-size: 20px;
+    }
+    .s1p{
+        font-size: 15px !important;
+    }
+    .servc6{
+        margin-top: -230px !important;
+    }
+    .servc3{
+        margin-top: -50px !important;
+    }
+    .cc1{
+        width: 32%;
+    }
+    .rula{
+        width: 95%;
+    }
+    
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+    .he1{
+        width: 45% !important;
+    }
+    .he2{
+        margin-top: 15px !important;
+    }
+    .st1{
+        width: 45% !important;
+    }
+    .bgimg{
+        width: 100%;
+        height: 440px;
+    }
+    .saq{
+        font-size: 20px !important;
+    }
+    .rate{
+        font-size: 15px !important;
+    }
+    .smk{
+        font-size: 18px !important;
+    }
+    .gurg{
+        font-size: 45px !important;
+    }
+    .gurgp{
+        font-size: 15px !important;
+    }
+    .st2{
+        font-size: 13px !important;
+    }
+    .ssp{
+        font-size: 12px !important;
+    }
+    .s1h{
+        font-size: 18px;
+    }
+    .s1p{
+        font-size: 13px !important;
+    }
+    .servc3{
+        margin-top: 0px !important;
+        animation: none;
+    }
+    .servc2{
+        margin-bottom: 80px !important;
+    }
+    .cc1{
+        width: 46%;
+    }
+    .rula{
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
+}
+@media screen and (max-width: 767px){
+    .he1{
+        margin-top: 15px !important;
+    }
+    .img_box img{
+        width: 80% !important;
+    }
+    .he2{
+        margin-top: 15px !important;
+    }
+    .bgimg{
+        width: 100%;
+        height: 440px;
+    }
+    .saq{
+        font-size: 17px !important;
+    }
+    .rate{
+        font-size: 13px !important;
+    }
+    .smk{
+        font-size: 16px !important;
+    }
+    .gurg{
+        font-size: 30px !important;
+    }
+    .gurgp{
+        font-size: 13px !important;
+    }
+    .s1h{
+        font-size: 17px;
+    }
+    .s1p{
+        font-size: 15px !important;
+    }
+    .servc6{
+        margin-top: 0 !important;
+    }
+    .servc3{
+        margin-top: 0 !important;
+    }
+    .rula{
+        margin-bottom: 20px;
+    }
+
+}
+/* @media screen and (min-width: 1200px){
+    .he1{
+        width: 30% !important;
+    }
+} */
